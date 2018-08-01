@@ -1,0 +1,17 @@
+{
+  "name": "ant-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "bigfish dev",
+    "build": "bigfish build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alipay/bigfish": "^2.0.0-beta.21"
+  }
+}
